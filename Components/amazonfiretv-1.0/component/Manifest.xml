@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<component format="1" id="amazonfiretv">
+  <name>Amazon Fire TV SDK</name>
+  <publisher>Xamarin Inc.</publisher>
+  <publisher-url>http://xamarin.com</publisher-url>
+  <version>1.0</version>
+  <summary>Engage new audiences by bringing your existing apps and games to the living room.</summary>
+  <samples>
+    <sample id="NotificationSample">
+      <name>Notification Sample</name>
+      <summary>Notification Sample</summary>
+    </sample>
+    <sample id="SampleGame">
+      <name>Game Controller Sample</name>
+      <summary>Game Controller Sample</summary>
+    </sample>
+  </samples>
+</component>

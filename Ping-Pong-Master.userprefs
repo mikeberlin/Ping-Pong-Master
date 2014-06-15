@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ping-Pong-Master.iPhone/Main.cs">
+    <Files>
+      <File FileName="Ping-Pong-Master/Pages/MatchPage.cs" Line="1" Column="1" />
+      <File FileName="Ping-Pong-Master.AmazonFireTV/MainActivity.cs" Line="29" Column="2" />
+      <File FileName="Ping-Pong-Master.iPhone/AppDelegate.cs" Line="18" Column="23" />
+      <File FileName="Ping-Pong-Master.iPhone/Main.cs" Line="15" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Ping-Pong-Master.AmazonFireTV AndroidDeviceId-Debug="192.168.56.101:5555" />
+</Properties>
