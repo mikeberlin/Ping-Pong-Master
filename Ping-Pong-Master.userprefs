@@ -1,16 +1,15 @@
 ﻿<Properties>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Ping-Pong-Master.iPhone/Main.cs">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.192.168.42.211:5555" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Ping-Pong-Master.AmazonFireTV/MainActivity.cs">
     <Files>
-      <File FileName="Ping-Pong-Master/Pages/MatchPage.cs" Line="1" Column="1" />
-      <File FileName="Ping-Pong-Master.AmazonFireTV/MainActivity.cs" Line="29" Column="2" />
-      <File FileName="Ping-Pong-Master.iPhone/AppDelegate.cs" Line="18" Column="23" />
-      <File FileName="Ping-Pong-Master.iPhone/Main.cs" Line="15" Column="1" />
+      <File FileName="Ping-Pong-Master/Views/BaseView.cs" Line="1" Column="1" />
+      <File FileName="Ping-Pong-Master.AmazonFireTV/MainActivity.cs" Line="14" Column="1" />
+      <File FileName="Ping-Pong-Master/Views/MatchView.cs" Line="1" Column="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.Ping-Pong-Master.AmazonFireTV AndroidDeviceId-Debug="192.168.56.101:5555" />
+  <MonoDevelop.Ide.ItemProperties.Ping-Pong-Master.AmazonFireTV MonoForAntroid.PreferredDevice="3.7&quot; WVGA (Nexus One)" AndroidDeviceId-Debug="192.168.42.211:5555" />
 </Properties>

@@ -6,7 +6,7 @@ using MonoTouch.Foundation;
 using MonoTouch.UIKit;
 
 using Xamarin.Forms;
-using PingPongMaster.Pages;
+using PingPongMaster.Views;
 
 namespace PingPongMaster.iPhone
 {
@@ -21,7 +21,7 @@ namespace PingPongMaster.iPhone
 
 			window = new UIWindow (UIScreen.MainScreen.Bounds);
 
-			window.RootViewController = MatchPage.GetMatchPage ().CreateViewController ();
+			window.RootViewController = MatchView.GetMatchView ().CreateViewController ();
 			window.MakeKeyAndVisible ();
 
 			return true;
